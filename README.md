@@ -15,9 +15,9 @@ The images are categorized into three ripeness levels:
 
 | Category | Omar et al. (2024) | Combined Total | Description |
 | :--- | :---: | :---: | :--- |
-| **Underripe** | 164 images | 64 | Not yet ready for harvest |
-| **Ripe** | 201 images | 153 | Optimum stage for oil production |
-| **Overripe** | 74 images | 34 | Past the optimum harvest window |
+| **Underripe** | 164 images | 64 images | Not yet ready for harvest |
+| **Ripe** | 201 images | 153 images | Optimum stage for oil production |
+| **Overripe** | 74 images | 34 images | Past the optimum harvest window |
 | **Total** | **439** | **690** | |
 
 ## Project Structure
