@@ -21,10 +21,14 @@ The images are categorized into three ripeness levels:
 | **Total** | **439** | **690** | |
 
 ## Project Structure
-```text
+```
 ├── Data Research/
 │   ├── Unripe/       
 │   ├── Ripe/            
 │   └── Overripe/        
 ├── Palm Oil Ripeness Transfer Learning (1).ipynb           
 └── README.md
+```
+
+### Citation
+Omar, Z., Majeed, A. P. P. A., Rosbi, M., Ghazalli, S. A., & Selamat, H. (2024). Outdoor oil palm fruit ripeness dataset. Data in Brief, 55, 110667.
